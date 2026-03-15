@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node (if you ever add npm)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# Misc
+*.log
+.cache/
