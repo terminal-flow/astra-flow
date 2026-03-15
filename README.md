@@ -57,8 +57,8 @@ astraflow/
 ## Run Locally
 
 ```bash
-git clone https://github.com/terminal-flow/astraflow.git
-cd astraflow
+git clone https://github.com/terminal-flow/astra-flow.git
+cd astra-flow
 # Open index.html with Live Server in VS Code
 ```
 
